@@ -25,7 +25,7 @@ To begin with, you have to install the plugin in your project to use it.
         <dependency>
             <groupId>com.github.Pseudow</groupId>
             <artifactId>AmazingPetAPI</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0</version>
         </dependency>
     </dependencies>
 ```
